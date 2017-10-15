@@ -29,4 +29,11 @@ str2 = "probably "
 print(str1 + str2)
 print("he's " "probably " "pining")
 print("Hello " * 5)
-#print("Hello" * 5 + 4) cant add 4 to a string
+#print("Hello" * 5 + 4) cant add 4 to a string'
+today = "friday"
+print("day" in today)
+print("fri" in today)
+print("thur" in today)
+print("fri " in today)
+print("yes" in "yes")
+
