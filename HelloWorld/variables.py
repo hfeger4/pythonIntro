@@ -24,3 +24,9 @@ number = "9,223,372,036,854,235"
 print(number[1::4])
 numbers = "1, 2, 3, 4, 5, 6, 7, 8, 9"
 print(numbers[0::3])
+str1 = "he's "
+str2 = "probably "
+print(str1 + str2)
+print("he's " "probably " "pining")
+print("Hello " * 5)
+#print("Hello" * 5 + 4) cant add 4 to a string
