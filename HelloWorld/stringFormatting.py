@@ -37,3 +37,6 @@ for i in range(1,12):
 
 print("PI is approximately {0:12.50}".format(22 / 7))
 
+for i in range(1,12):
+    print("No. {} squared is {:<4} and cubed is {:<4}".format(i, i ** 2, i**3))
+
