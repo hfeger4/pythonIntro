@@ -5,10 +5,11 @@
 #If they are, welcome them to the holiday, otherwise print
 #a (polite) message refusing them entry.
 
+name = input("Please enter your name: ")
 age = int(input("Please enter your age to continue: "))
 
 if 18 <= age <= 30:
-    print("Welcome to your holiday!")
+    print("Welcome to your holiday, {0}!".format(name))
 elif age < 18:
     print("I'm sorry, you are too young to enjoy this holiday.")
 else:
