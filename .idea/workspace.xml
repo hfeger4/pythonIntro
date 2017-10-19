@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/ifprogramflow.py" afterPath="$PROJECT_DIR$/HelloWorld/ifprogramflow.py" />
-    </list>
+    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +61,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ifprogramflow.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ifprogramflow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/ifprogramflow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="62" column="2" lean-forward="true" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+            <state relative-caret-position="442">
+              <caret line="68" column="40" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="challenge1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/challenge1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -95,6 +103,7 @@
         <option value="$PROJECT_DIR$/HelloWorld/stringFormatting.py" />
         <option value="$PROJECT_DIR$/HelloWorld/tabs.py" />
         <option value="$PROJECT_DIR$/HelloWorld/ifprogramflow.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/challenge1.py" />
       </list>
     </option>
   </component>
@@ -161,7 +170,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ifprogramflow">
+  <component name="RunManager" selected="Python.challenge1">
+    <configuration name="challenge1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/challenge1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="ifprogramflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,23 +201,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/ifprogramflow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,19 +257,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.input" />
-      <item index="1" class="java.lang.String" itemvalue="Python.variables" />
-      <item index="2" class="java.lang.String" itemvalue="Python.stringFormatting" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tabs" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ifprogramflow" />
+      <item index="0" class="java.lang.String" itemvalue="Python.variables" />
+      <item index="1" class="java.lang.String" itemvalue="Python.stringFormatting" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tabs" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ifprogramflow" />
+      <item index="4" class="java.lang.String" itemvalue="Python.challenge1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ifprogramflow" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tabs" />
-        <item index="2" class="java.lang.String" itemvalue="Python.stringFormatting" />
-        <item index="3" class="java.lang.String" itemvalue="Python.variables" />
-        <item index="4" class="java.lang.String" itemvalue="Python.input" />
+        <item index="0" class="java.lang.String" itemvalue="Python.challenge1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ifprogramflow" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tabs" />
+        <item index="3" class="java.lang.String" itemvalue="Python.stringFormatting" />
+        <item index="4" class="java.lang.String" itemvalue="Python.variables" />
       </list>
     </recent_temporary>
   </component>
@@ -377,8 +386,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/ifprogramflow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="62" column="2" lean-forward="true" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+        <state relative-caret-position="442">
+          <caret line="68" column="40" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/challenge1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
           <folding />
         </state>
       </provider>
