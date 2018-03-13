@@ -19,6 +19,7 @@ print(parrot[6:])
 print(parrot[-4:-2])
 print(parrot[0:6:2])
 print(parrot[0:6:3])
+print(parrot[::-1])
 
 number = "9,223,372,036,854,235"
 print(number[1::4])
