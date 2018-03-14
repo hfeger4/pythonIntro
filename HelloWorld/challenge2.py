@@ -1,6 +1,6 @@
 
 
-ip_address = "127.0.0.1"
+ip_address = input("Please enter an IP address")
 
 count = 0
 arr = []
@@ -13,4 +13,6 @@ for i in range(0,len(ip_address)):
     if i == (len(ip_address) - 1):
         arr.append(count)
 
-print(arr)
+
+for i in range(0,len(arr)):
+    print("In position {} there are {} numbers".format(i,arr[i]))
