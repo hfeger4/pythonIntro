@@ -11,46 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ifprogramflow.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/ifprogramflow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="68" column="40" lean-forward="false" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="challenge1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/challenge1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forloops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/forloops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="whileLoops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/whileLoops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/lists.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,11 +51,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tuples.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tuples.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/tuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            <state relative-caret-position="440">
+              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binary.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/binary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dictionaries.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/dictionaries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="join.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/join.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moreDictionaries.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/moreDictionaries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="76" column="26" lean-forward="true" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -142,12 +142,16 @@
         <option value="$PROJECT_DIR$/HelloWorld/range2.py" />
         <option value="$PROJECT_DIR$/HelloWorld/demo.py" />
         <option value="$PROJECT_DIR$/HelloWorld/tuples.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/binary.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/dictionaries.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/join.py" />
+        <option value="$PROJECT_DIR$/HelloWorld/moreDictionaries.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="898" />
+    <option name="width" value="1029" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -207,8 +211,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuples">
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.moreDictionaries">
+    <configuration name="binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -220,12 +224,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/binary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="iterators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,12 +241,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/iterators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="range2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="join" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,12 +258,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/range2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="moreDictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -271,7 +275,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/ranges.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/moreDictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +298,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.iterators" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ranges" />
-      <item index="2" class="java.lang.String" itemvalue="Python.range2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tuples" />
-      <item index="4" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tuples" />
+      <item index="1" class="java.lang.String" itemvalue="Python.binary" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dictionaries" />
+      <item index="3" class="java.lang.String" itemvalue="Python.join" />
+      <item index="4" class="java.lang.String" itemvalue="Python.moreDictionaries" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tuples" />
-        <item index="1" class="java.lang.String" itemvalue="Python.demo" />
-        <item index="2" class="java.lang.String" itemvalue="Python.range2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ranges" />
-        <item index="4" class="java.lang.String" itemvalue="Python.iterators" />
+        <item index="0" class="java.lang.String" itemvalue="Python.moreDictionaries" />
+        <item index="1" class="java.lang.String" itemvalue="Python.join" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="3" class="java.lang.String" itemvalue="Python.binary" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tuples" />
       </list>
     </recent_temporary>
   </component>
@@ -324,10 +328,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="898" y="0" width="1029" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23277661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2201382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -540,8 +544,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/tuples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        <state relative-caret-position="440">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/moreDictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="76" column="26" lean-forward="true" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
           <folding />
         </state>
       </provider>
