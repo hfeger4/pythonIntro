@@ -46,4 +46,48 @@ print(squares & even)
 
 print(sorted(even))
 
+#subtracting B from A removing items from B that are in A
+print("even")
+print(even)
+print("squares")
+print(squares)
+print("even minus squares")
+print(sorted(even.difference(squares)))
+print(sorted(even - squares))
 
+print("squares minus even")
+print(sorted(squares - even))
+
+# print("-" * 40)
+# print(even)
+# even.difference_update(squares)
+# print(even)
+
+print("symmetric even minus squares")
+print(sorted(even.symmetric_difference(squares)))
+print(sorted(squares.symmetric_difference(even)))
+
+
+# squares.discard(4)
+# squares.remove(16) #remove throws an error if this number doesnt exist.
+# squares.discard(8)
+# print(squares)
+
+# try:
+#     squares.remove(8)
+# except KeyError:
+#     print("The item 8 is not in the set")
+print("Subsets")
+even = set(range(0,40,2))
+print(even)
+squares_tuple = (4,6,16)
+squares = set(squares_tuple)
+print(squares)
+
+if squares.issubset(even):
+    print("squares is a subset of even")
+
+if even.issuperset(squares):
+    print("even is a superset of squares")
+
+even = frozenset(range(0,100,2))
