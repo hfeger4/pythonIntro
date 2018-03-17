@@ -11,7 +11,7 @@ import time
 # print("Day", time_here[2], time_here.tm_mday)
 
 import time
-from time import time as my_timer
+from time import perf_counter as my_timer #time and monotomic can be used instead of perf_counter
 import random
 
 
