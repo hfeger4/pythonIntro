@@ -1,6 +1,6 @@
 def balanced_parens(arr):
     stack = []
-    open_parens = ["[","{","("]
+    open_parens = set("({[")
 
     for paren in arr:
         if paren in open_parens:
@@ -20,6 +20,7 @@ def matching(opener, closer):
         return True
     if opener == "{" and closer == "}":
         return True
+    return False
 
 print(balanced_parens("([)]") == False)
 print(balanced_parens("[()]"))
