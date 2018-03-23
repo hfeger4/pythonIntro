@@ -71,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single_linked_list_class.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="single_linked_list_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/single_linked_list_class.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -81,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverse_words.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/reverse_words.py">
+      <file leaf-file-name="doubly_linked_list.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/doubly_linked_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -126,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello_world.py" />
         <option value="$PROJECT_DIR$/HelloWorld/input.py" />
         <option value="$PROJECT_DIR$/HelloWorld/variables.py" />
         <option value="$PROJECT_DIR$/HelloWorld/stringFormatting.py" />
@@ -177,6 +176,7 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/balanced_parens.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/implement_queue_2_stacks.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/single_linked_list_class.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/doubly_linked_list.py" />
       </list>
     </option>
   </component>
@@ -253,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.single_linked_list_class">
+  <component name="RunManager" selected="Python.doubly_linked_list">
     <configuration name="balanced_parens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,6 +288,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="doubly_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/doubly_linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="implement_queue_2_stacks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,23 +318,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/implement_queue_2_stacks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="queue_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/queue_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,19 +340,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.queue_class" />
-      <item index="1" class="java.lang.String" itemvalue="Python.deque" />
-      <item index="2" class="java.lang.String" itemvalue="Python.balanced_parens" />
-      <item index="3" class="java.lang.String" itemvalue="Python.implement_queue_2_stacks" />
-      <item index="4" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
+      <item index="0" class="java.lang.String" itemvalue="Python.deque" />
+      <item index="1" class="java.lang.String" itemvalue="Python.balanced_parens" />
+      <item index="2" class="java.lang.String" itemvalue="Python.implement_queue_2_stacks" />
+      <item index="3" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.doubly_linked_list" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
-        <item index="1" class="java.lang.String" itemvalue="Python.implement_queue_2_stacks" />
-        <item index="2" class="java.lang.String" itemvalue="Python.balanced_parens" />
-        <item index="3" class="java.lang.String" itemvalue="Python.deque" />
-        <item index="4" class="java.lang.String" itemvalue="Python.queue_class" />
+        <item index="0" class="java.lang.String" itemvalue="Python.doubly_linked_list" />
+        <item index="1" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
+        <item index="2" class="java.lang.String" itemvalue="Python.implement_queue_2_stacks" />
+        <item index="3" class="java.lang.String" itemvalue="Python.balanced_parens" />
+        <item index="4" class="java.lang.String" itemvalue="Python.deque" />
       </list>
     </recent_temporary>
   </component>
@@ -406,13 +406,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/input.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -806,6 +799,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/doubly_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
