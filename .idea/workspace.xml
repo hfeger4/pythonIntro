@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jupyter/Largest Continuous Sum .ipynb" afterPath="$PROJECT_DIR$/jupyter/Largest Continuous Sum .ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="accounts.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop/accounts.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="song.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop/song.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +93,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="largest_continous_sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="largest_continous_sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverse_words.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/reverse_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/pair_sum.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/find_missing_element.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/reverse_words.py" />
       </list>
     </option>
   </component>
@@ -246,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.largest_continous_sum">
+  <component name="RunManager" selected="Python.reverse_words">
     <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,23 +278,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/find_missing_element.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="h_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/h_index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,20 +316,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="reverse_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/reverse_words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.h_index" />
-      <item index="1" class="java.lang.String" itemvalue="Python.anagram" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pair_sum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.find_missing_element" />
-      <item index="4" class="java.lang.String" itemvalue="Python.largest_continous_sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.anagram" />
+      <item index="1" class="java.lang.String" itemvalue="Python.pair_sum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.find_missing_element" />
+      <item index="3" class="java.lang.String" itemvalue="Python.largest_continous_sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reverse_words" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.largest_continous_sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.find_missing_element" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pair_sum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.anagram" />
-        <item index="4" class="java.lang.String" itemvalue="Python.h_index" />
+        <item index="0" class="java.lang.String" itemvalue="Python.reverse_words" />
+        <item index="1" class="java.lang.String" itemvalue="Python.largest_continous_sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.find_missing_element" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pair_sum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +375,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -399,13 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld/tabs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/ifprogramflow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
@@ -760,6 +754,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/reverse_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
           <folding />
         </state>
       </provider>
