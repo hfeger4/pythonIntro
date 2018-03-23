@@ -20,3 +20,5 @@ def largest_continuous_sum(arr):
 #         if count < 0:
 #             count = 0
 #     return largest
+
+print(largest_continuous_sum([1,2,-1,3,4,10,10,-10,-1]) == 29)

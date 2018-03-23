@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="" />
+    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +106,8 @@
       <file leaf-file-name="largest_continous_sum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="391">
+              <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -244,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.find_missing_element">
+  <component name="RunManager" selected="Python.largest_continous_sum">
     <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,19 +298,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="largest_continous_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +333,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main" />
-      <item index="1" class="java.lang.String" itemvalue="Python.h_index" />
-      <item index="2" class="java.lang.String" itemvalue="Python.anagram" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pair_sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.find_missing_element" />
+      <item index="0" class="java.lang.String" itemvalue="Python.h_index" />
+      <item index="1" class="java.lang.String" itemvalue="Python.anagram" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pair_sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.find_missing_element" />
+      <item index="4" class="java.lang.String" itemvalue="Python.largest_continous_sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.find_missing_element" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pair_sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.anagram" />
-        <item index="3" class="java.lang.String" itemvalue="Python.h_index" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main" />
+        <item index="0" class="java.lang.String" itemvalue="Python.largest_continous_sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.find_missing_element" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pair_sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.anagram" />
+        <item index="4" class="java.lang.String" itemvalue="Python.h_index" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +374,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -756,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/largest_continous_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="391">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding />
         </state>
       </provider>
