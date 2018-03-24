@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/reverse_singly_linked_list.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/reverse_singly_linked_list.py" />
-    </list>
+    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,16 +16,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stack_class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/stack_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -97,18 +84,28 @@
       <file leaf-file-name="singlyLinkedCycleCheck.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/singlyLinkedCycleCheck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="544">
               <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverse_singly_linked_list.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reverse_singly_linked_list.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/reverse_singly_linked_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nthToLastNode_SinglyLinkedList.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/nthToLastNode_SinglyLinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloWorld/stringFormatting.py" />
         <option value="$PROJECT_DIR$/HelloWorld/tabs.py" />
         <option value="$PROJECT_DIR$/HelloWorld/ifprogramflow.py" />
         <option value="$PROJECT_DIR$/HelloWorld/challenge1.py" />
@@ -180,6 +176,7 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/doubly_linked_list.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/singlyLinkedCycleCheck.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/reverse_singly_linked_list.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/nthToLastNode_SinglyLinkedList.py" />
       </list>
     </option>
   </component>
@@ -256,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reverse_singly_linked_list">
+  <component name="RunManager" selected="Python.nthToLastNode_SinglyLinkedList">
     <configuration name="doubly_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,7 +271,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="implement_queue_2_stacks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nthToLastNode_SinglyLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -286,7 +283,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/implement_queue_2_stacks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/nthToLastNode_SinglyLinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +340,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.implement_queue_2_stacks" />
-      <item index="1" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
-      <item index="2" class="java.lang.String" itemvalue="Python.doubly_linked_list" />
-      <item index="3" class="java.lang.String" itemvalue="Python.singlyLinkedCycleCheck" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reverse_singly_linked_list" />
+      <item index="0" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
+      <item index="1" class="java.lang.String" itemvalue="Python.doubly_linked_list" />
+      <item index="2" class="java.lang.String" itemvalue="Python.singlyLinkedCycleCheck" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reverse_singly_linked_list" />
+      <item index="4" class="java.lang.String" itemvalue="Python.nthToLastNode_SinglyLinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reverse_singly_linked_list" />
-        <item index="1" class="java.lang.String" itemvalue="Python.singlyLinkedCycleCheck" />
-        <item index="2" class="java.lang.String" itemvalue="Python.doubly_linked_list" />
-        <item index="3" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
-        <item index="4" class="java.lang.String" itemvalue="Python.implement_queue_2_stacks" />
+        <item index="0" class="java.lang.String" itemvalue="Python.nthToLastNode_SinglyLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reverse_singly_linked_list" />
+        <item index="2" class="java.lang.String" itemvalue="Python.singlyLinkedCycleCheck" />
+        <item index="3" class="java.lang.String" itemvalue="Python.doubly_linked_list" />
+        <item index="4" class="java.lang.String" itemvalue="Python.single_linked_list_class" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +381,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -409,13 +406,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld/stringFormatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="79" lean-forward="false" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/tabs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -792,14 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/singlyLinkedCycleCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/find_missing_element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -810,8 +792,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/reverse_singly_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="510">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/singlyLinkedCycleCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/nthToLastNode_SinglyLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
