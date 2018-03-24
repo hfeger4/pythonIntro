@@ -11,13 +11,12 @@ def reverse(head):
     nextnode = None
 
     while current:
-
         nextnode = current.nextnode
-
         current.nextnode = prev
 
         prev = current
         current = nextnode
+
     return prev
 
 
