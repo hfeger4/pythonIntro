@@ -95,6 +95,42 @@ def fib_iterative(n):
 
 print(fib_iterative(10))
 
+# Inefficient
+# def rec_coin(target, coins):
+#
+#     min_coins = target
+#
+#     if target in coins:
+#         return 1
+#     else:
 
+#for every coin value that is <= my target
 
+#         for i in [c for c in coins if c <= target]:
+# add coin count and start recursive call
+#             num_coins = 1 + rec_coin(target-i,coins)
+#  Reset minimum if the new num_coins is less than min_coins
+#             if num_coins < min_coins:
+#                 min_coins = num_coins
+#     return min_coins
 
+def rec_coin_dynam(target, coins, known_results):
+    min_coins = target
+
+    if target in coins:
+        known_results[target] = 1
+        return 1
+    #return known result if it happens to be greater than 1
+    elif known_results[target] > 0:
+        return known_results[target]
+    else:
+        #for every coin value <= target,
+        for i in [c for c in coins if c <= target]:
+            num_coins = 1 + rec_coin_dynam(target-i, coins, known_results)
+            if num_coins < min_coins:
+                min_coins = num_coins
+                #reset known result
+                known_results[target] = min_coins
+    return min_coins
+
+print(rec_coin_dynam(63,[1,5,10,25],[0]*(63+1)))
