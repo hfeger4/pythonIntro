@@ -133,4 +133,7 @@ def rec_coin_dynam(target, coins, known_results):
                 known_results[target] = min_coins
     return min_coins
 
-print(rec_coin_dynam(63,[1,5,10,25],[0]*(63+1)))
+my_target = 63
+known_example = [0] * (my_target+1)
+coins = [1,5,10,25]
+print(rec_coin_dynam(my_target, coins, known_example))
