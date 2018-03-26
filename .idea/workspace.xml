@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="" />
+    <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/recursion problems.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/recursion problems.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="find_missing_element.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/find_missing_element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,21 +93,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recursion problems.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="recursion problems.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/recursion problems.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interview questions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="interview questions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/interview questions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="323">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -180,8 +182,8 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/reverse_singly_linked_list.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/nthToLastNode_SinglyLinkedList.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/factorial recursion.py" />
-        <option value="$PROJECT_DIR$/elements_of_programming_interviews/recursion problems.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/interview questions.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/recursion problems.py" />
       </list>
     </option>
   </component>
@@ -258,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.interview questions">
+  <component name="RunManager" selected="Python.recursion problems">
     <configuration name="factorial recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,8 +355,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.interview questions" />
-        <item index="1" class="java.lang.String" itemvalue="Python.recursion problems" />
+        <item index="0" class="java.lang.String" itemvalue="Python.recursion problems" />
+        <item index="1" class="java.lang.String" itemvalue="Python.interview questions" />
         <item index="2" class="java.lang.String" itemvalue="Python.factorial recursion" />
         <item index="3" class="java.lang.String" itemvalue="Python.nthToLastNode_SinglyLinkedList" />
         <item index="4" class="java.lang.String" itemvalue="Python.reverse_singly_linked_list" />
@@ -766,14 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/find_missing_element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/reverse_singly_linked_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -806,18 +800,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/recursion problems.py">
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/find_missing_element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/interview questions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/recursion problems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding />
         </state>
       </provider>
