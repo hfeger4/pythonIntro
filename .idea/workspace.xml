@@ -81,11 +81,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="implement_hash_table.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="implement_hash_table.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/implement_hash_table.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bubble_sort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/bubble_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,16 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="last_element_LL.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -131,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PythonReview/sets.py" />
         <option value="$PROJECT_DIR$/PythonReview/challenge_sets.py" />
         <option value="$PROJECT_DIR$/PythonReview/turtleDemo.py" />
         <option value="$PROJECT_DIR$/PythonReview/dir.py" />
@@ -182,6 +181,7 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/trim_BST.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/binary_search.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/implement_hash_table.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/bubble_sort.py" />
       </list>
     </option>
   </component>
@@ -258,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary_search">
+  <component name="RunManager" selected="Python.bubble_sort">
     <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,6 +276,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/bubble_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="is_binary_search_tree_check" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,23 +306,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/is_binary_search_tree_check.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="last_element_LL" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,19 +345,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.last_element_LL" />
-      <item index="1" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
-      <item index="2" class="java.lang.String" itemvalue="Python.my_bst_validate" />
-      <item index="3" class="java.lang.String" itemvalue="Python.print_tree_levels" />
-      <item index="4" class="java.lang.String" itemvalue="Python.binary_search" />
+      <item index="0" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
+      <item index="1" class="java.lang.String" itemvalue="Python.my_bst_validate" />
+      <item index="2" class="java.lang.String" itemvalue="Python.print_tree_levels" />
+      <item index="3" class="java.lang.String" itemvalue="Python.binary_search" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bubble_sort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.binary_search" />
-        <item index="1" class="java.lang.String" itemvalue="Python.print_tree_levels" />
-        <item index="2" class="java.lang.String" itemvalue="Python.my_bst_validate" />
-        <item index="3" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
-        <item index="4" class="java.lang.String" itemvalue="Python.last_element_LL" />
+        <item index="0" class="java.lang.String" itemvalue="Python.bubble_sort" />
+        <item index="1" class="java.lang.String" itemvalue="Python.binary_search" />
+        <item index="2" class="java.lang.String" itemvalue="Python.print_tree_levels" />
+        <item index="3" class="java.lang.String" itemvalue="Python.my_bst_validate" />
+        <item index="4" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
       </list>
     </recent_temporary>
   </component>
@@ -411,14 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonReview/sets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="92" column="32" lean-forward="false" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonReview/challenge_sets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -819,8 +811,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/implement_hash_table.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
