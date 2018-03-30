@@ -71,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trim_BST.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="trim_BST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/trim_BST.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binary_search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/binary_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -101,16 +111,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortedLinkedListInsert.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/SortedLinkedListInsert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -131,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloWorld/moreDictionaries.py" />
         <option value="$PROJECT_DIR$/HelloWorld/sets.py" />
         <option value="$PROJECT_DIR$/PythonReview/sets.py" />
         <option value="$PROJECT_DIR$/PythonReview/challenge_sets.py" />
@@ -182,6 +181,7 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/my_bst_validate.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/print_tree_levels.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/trim_BST.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/binary_search.py" />
       </list>
     </option>
   </component>
@@ -258,7 +258,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.print_tree_levels">
+  <component name="RunManager" selected="Python.binary_search">
+    <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/binary_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="is_binary_search_tree_check" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,23 +306,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="mergeLinkedLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/mergeLinkedLists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,19 +345,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.mergeLinkedLists" />
-      <item index="1" class="java.lang.String" itemvalue="Python.last_element_LL" />
-      <item index="2" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
-      <item index="3" class="java.lang.String" itemvalue="Python.my_bst_validate" />
-      <item index="4" class="java.lang.String" itemvalue="Python.print_tree_levels" />
+      <item index="0" class="java.lang.String" itemvalue="Python.last_element_LL" />
+      <item index="1" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
+      <item index="2" class="java.lang.String" itemvalue="Python.my_bst_validate" />
+      <item index="3" class="java.lang.String" itemvalue="Python.print_tree_levels" />
+      <item index="4" class="java.lang.String" itemvalue="Python.binary_search" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.print_tree_levels" />
-        <item index="1" class="java.lang.String" itemvalue="Python.my_bst_validate" />
-        <item index="2" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
-        <item index="3" class="java.lang.String" itemvalue="Python.last_element_LL" />
-        <item index="4" class="java.lang.String" itemvalue="Python.mergeLinkedLists" />
+        <item index="0" class="java.lang.String" itemvalue="Python.binary_search" />
+        <item index="1" class="java.lang.String" itemvalue="Python.print_tree_levels" />
+        <item index="2" class="java.lang.String" itemvalue="Python.my_bst_validate" />
+        <item index="3" class="java.lang.String" itemvalue="Python.is_binary_search_tree_check" />
+        <item index="4" class="java.lang.String" itemvalue="Python.last_element_LL" />
       </list>
     </recent_temporary>
   </component>
@@ -411,14 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld/moreDictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="9" lean-forward="true" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/sets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -821,6 +813,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/binary_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding />
         </state>
       </provider>
