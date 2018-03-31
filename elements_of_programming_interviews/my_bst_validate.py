@@ -19,5 +19,17 @@ def validate_bst(root, min = -float("inf"), max = float("inf")):
 root = Node(5)
 l = Node(4)
 r = Node(6)
+root.left_child = l
+root.right_child = r
 
 print(validate_bst(root))
+
+#Test Case
+root = Node(5)
+l = Node(4)
+r = Node(3)
+root.left_child = l
+root.right_child = r
+
+print(validate_bst(root))
+
