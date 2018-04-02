@@ -33,3 +33,11 @@ root.right_child = r
 
 print(validate_bst(root))
 
+#Test Case
+root = Node(1)
+l = Node(4)
+r = Node(3)
+root.left_child = l
+root.right_child = r
+
+print(validate_bst(root))
