@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/interview questions.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/interview questions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,26 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="unionAndIntersectionOfLL.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortedLinkedListInsert.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/SortedLinkedListInsert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="my_bst_validate.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/my_bst_validate.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +84,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="length_of_longest_substring.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="length_of_longest_substring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/length_of_longest_substring.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="last_element_LL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="longest_increasing_subsequence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-238">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -133,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PythonReview/functions.py" />
         <option value="$PROJECT_DIR$/PythonReview/more_funct.py" />
         <option value="$PROJECT_DIR$/blackjack/blackjack.py" />
         <option value="$PROJECT_DIR$/oop/oop.py" />
@@ -171,7 +171,6 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/SortedLinkedListInsert.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/BinarySearchTree.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/mergeLinkedLists.py" />
-        <option value="$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/is_binary_search_tree_check.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/print_tree_levels.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/trim_BST.py" />
@@ -184,6 +183,8 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/longest_common_subsequence-Dynamic.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/interview questions.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/length_of_longest_substring.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py" />
       </list>
     </option>
   </component>
@@ -260,8 +261,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.longest_common_subsequence-Dynamic">
-    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.longest_increasing_subsequence">
+    <configuration name="last_element_LL" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -273,7 +274,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,6 +296,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="longest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="my_bst_validate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,23 +326,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/my_bst_validate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/selection_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,19 +348,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.bubble_sort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.selection_sort" />
-      <item index="2" class="java.lang.String" itemvalue="Python.unionAndIntersectionOfLL" />
-      <item index="3" class="java.lang.String" itemvalue="Python.my_bst_validate" />
-      <item index="4" class="java.lang.String" itemvalue="Python.longest_common_subsequence-Dynamic" />
+      <item index="0" class="java.lang.String" itemvalue="Python.unionAndIntersectionOfLL" />
+      <item index="1" class="java.lang.String" itemvalue="Python.my_bst_validate" />
+      <item index="2" class="java.lang.String" itemvalue="Python.longest_common_subsequence-Dynamic" />
+      <item index="3" class="java.lang.String" itemvalue="Python.last_element_LL" />
+      <item index="4" class="java.lang.String" itemvalue="Python.longest_increasing_subsequence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.longest_common_subsequence-Dynamic" />
-        <item index="1" class="java.lang.String" itemvalue="Python.my_bst_validate" />
-        <item index="2" class="java.lang.String" itemvalue="Python.unionAndIntersectionOfLL" />
-        <item index="3" class="java.lang.String" itemvalue="Python.selection_sort" />
-        <item index="4" class="java.lang.String" itemvalue="Python.bubble_sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.longest_increasing_subsequence" />
+        <item index="1" class="java.lang.String" itemvalue="Python.last_element_LL" />
+        <item index="2" class="java.lang.String" itemvalue="Python.longest_common_subsequence-Dynamic" />
+        <item index="3" class="java.lang.String" itemvalue="Python.my_bst_validate" />
+        <item index="4" class="java.lang.String" itemvalue="Python.unionAndIntersectionOfLL" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +389,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31303418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21177588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -414,14 +415,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1682976584/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="477" column="4" lean-forward="false" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonReview/functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -646,14 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/list_of_lists_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -818,6 +803,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/last_element_LL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding />
         </state>
       </provider>

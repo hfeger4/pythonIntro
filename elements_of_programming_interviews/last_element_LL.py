@@ -10,11 +10,11 @@ c = Node("c")
 a.next = b
 b.next = c
 
-print(a.next.value)
+# print(a.next.value)
 
 def select_last(head):
     current = head
-    while current.next != None:
+    while current.next:
         current = current.next
         last = current
     print(last.value)
