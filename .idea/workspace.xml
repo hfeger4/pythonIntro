@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ba6697f-00ca-4701-8255-ef2e6667c24f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/unique.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/unique.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,6 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mergeLinkedLists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/mergeLinkedLists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="trim_BST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/trim_BST.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -23,31 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mergeLinkedLists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/mergeLinkedLists.py">
+      <file leaf-file-name="unionAndIntersectionOfLL.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="longest_increasing_subsequence.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="longest_common_subsequence-Dynamic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/longest_common_subsequence-Dynamic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="221">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -103,11 +93,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unique.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="unique.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/unique.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="implement_hash_table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/implement_hash_table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-677">
+              <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -175,7 +175,6 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/implement_hash_table.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/bubble_sort.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/selection_sort.py" />
-        <option value="$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/my_bst_validate.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/longest_common_subsequence-Dynamic.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/interview questions.py" />
@@ -184,6 +183,7 @@
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/edit_distance.py" />
         <option value="$PROJECT_DIR$/elements_of_programming_interviews/unique.py" />
+        <option value="$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py" />
       </list>
     </option>
   </component>
@@ -260,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.unique">
+  <component name="RunManager" selected="Python.unionAndIntersectionOfLL">
     <configuration name="edit_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,23 +295,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="longest_common_subsequence-Dynamic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_projects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/longest_common_subsequence-Dynamic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="longest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,6 +308,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="unionAndIntersectionOfLL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elements_of_programming_interviews" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,19 +347,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.longest_common_subsequence-Dynamic" />
-      <item index="1" class="java.lang.String" itemvalue="Python.last_element_LL" />
-      <item index="2" class="java.lang.String" itemvalue="Python.longest_increasing_subsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.edit_distance" />
-      <item index="4" class="java.lang.String" itemvalue="Python.unique" />
+      <item index="0" class="java.lang.String" itemvalue="Python.last_element_LL" />
+      <item index="1" class="java.lang.String" itemvalue="Python.longest_increasing_subsequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.edit_distance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.unique" />
+      <item index="4" class="java.lang.String" itemvalue="Python.unionAndIntersectionOfLL" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.unique" />
-        <item index="1" class="java.lang.String" itemvalue="Python.edit_distance" />
-        <item index="2" class="java.lang.String" itemvalue="Python.longest_increasing_subsequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.last_element_LL" />
-        <item index="4" class="java.lang.String" itemvalue="Python.longest_common_subsequence-Dynamic" />
+        <item index="0" class="java.lang.String" itemvalue="Python.unionAndIntersectionOfLL" />
+        <item index="1" class="java.lang.String" itemvalue="Python.unique" />
+        <item index="2" class="java.lang.String" itemvalue="Python.edit_distance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.longest_increasing_subsequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.last_element_LL" />
       </list>
     </recent_temporary>
   </component>
@@ -646,14 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/SortedLinkedListInsert.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -666,14 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/implement_hash_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-677">
-          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -742,22 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/trim_BST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/mergeLinkedLists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/longest_increasing_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -798,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/implement_queue_2_stacks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/pair_sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -816,8 +776,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/unique.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/implement_hash_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/implement_queue_2_stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/mergeLinkedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/trim_BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_of_programming_interviews/unionAndIntersectionOfLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding />
         </state>
       </provider>
