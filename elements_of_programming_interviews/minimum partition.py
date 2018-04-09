@@ -19,7 +19,7 @@ Subset2 = {11}, sum of Subset2 = 11
 #
 #     return min(find_min_rec(arr, i-1, sumCalculated + arr[i-1], sumTotal),
 #                find_min_rec(arr, i-1, sumCalculated, sumTotal))
-# 
+#
 # def find_min(arr, n):
 #     sumTotal = 0
 #     for i in range(len(arr)):
