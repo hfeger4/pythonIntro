@@ -23,7 +23,7 @@ def partition(alist,first,last):
            leftmark = leftmark + 1
 
        while alist[rightmark] >= pivotvalue and rightmark >= leftmark:
-           rightmark = rightmark -1
+           rightmark = rightmark - 1
 
        if rightmark < leftmark:
            done = True
