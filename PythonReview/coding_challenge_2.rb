@@ -9,7 +9,16 @@ def fibbonacci(n)
   fibb_arr.last
 end
 
-p fibbonacci(1)
+p fibbonacci(10)
+
+def fib_rec(n)
+  return 0 if n == 0
+  return 1 if n == 1
+  return fib_rec(n-1) + fib_rec(n-2)
+end
+
+p "fib_rec"
+p fib_rec(10)
 
 def dice_5_from_7()
   num = rand(7)
@@ -34,3 +43,10 @@ def dice_7_from_5()
 end
 
 p dice_7_from_5()
+
+def string_reverse(str)
+  return "" if str.length == 0
+  str[-1] + string_reverse(str[0..-2])
+end
+
+p string_reverse("hello")
