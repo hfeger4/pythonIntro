@@ -57,3 +57,10 @@ for i in range(6):
     g.addVertex(i)
 
 print(g.vertList)
+
+g.addEdge(0,1,2)
+
+for vertex in g:
+    print(vertex)
+    print(vertex.getConnections())
+    print('\n')
