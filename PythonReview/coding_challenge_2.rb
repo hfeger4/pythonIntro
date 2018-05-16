@@ -20,3 +20,17 @@ def dice_5_from_7()
 end
 
 p dice_5_from_7()
+
+def dice_7_from_5()
+  num1 = rand(7)
+  while num1 > 3.5
+    num1 = rand(7)
+  end
+  num2 = rand(7)
+  while num2 > 3.5
+    num2 = rand(7)
+  end
+  return num1 + num2
+end
+
+p dice_7_from_5()
