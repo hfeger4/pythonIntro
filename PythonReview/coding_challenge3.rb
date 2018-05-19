@@ -7,3 +7,8 @@ end
 
 p three_integers([1,2,3,4,5,6,2,3,4,22,3])
 p three_integers([1,2,3,4,5,6,2,3,4,-22,3])
+
+#time complexity O(nlogn) logn due to the constant division and n times to recreate the stack. 
+def merge_sort
+
+end
