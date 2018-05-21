@@ -23,4 +23,14 @@ end
 
 def merge(left,right)
   arr = []
+  while left.length > 0 && right.length > 0
+    if left[0] < right[0]
+      arr << left.shift
+    else
+      arr << right.shift
+    end
+  end
+  arr + left + right
 end
+
+p merge_sort([1,5,2,4,3])
